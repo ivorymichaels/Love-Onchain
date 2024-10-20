@@ -2,7 +2,8 @@
 Your Gateway to Web3 Dating
 
 
-#Introduction
+##Introduction
+
 Traditional social and dating platforms are typically managed by companies that control users' data, actions, and relationships. Also, many people from different walks of life are so engrossed in their daily activities that they end up living a lonely life, having no one to talk to or share their lives with and in the end, having difficulties finding love. 
 
 While these platforms have been successful, most of them often cater to specific regions or have strayed from their original purpose.  often bring about familiar challenges like restricted freedoms, social disconnection, intrusive moderation, and privacy concerns. Love-Onchain is here to change that narrative for the African community, helping people find love and friendship that is meaningful and local.
